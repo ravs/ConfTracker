@@ -1,0 +1,1511 @@
+RT
+@brianleroux:
+js
+dev
+evolution:
+callbacks
+-&gt;
+events
+-&gt;
+promises
+-&gt;ヽ༼ຈل͜ຈ༽ﾉ
+-&gt;
+callbacks
+
+RT
+@izs:
+&lt;A
+HREF=http://t.co/IKcdQ8zPB8&gt;
+
+&lt;BR&gt;
+
+&lt;TABLE
+ALIGN=center
+BORDER=0&gt;&lt;TR&gt;&lt;TD
+COLSPAN=2&gt;&lt;MARQUEE&gt;I
+AM
+SO
+EXCITED
+FOR
+DHTMLCONF&lt;/TD&gt;&lt;/T…
+
+Get
+started
+with
+audio
+synthesis
+in	INCONF
+JS
+http://t.co/2xV29N6PhW
+
+Take
+a
+few
+moments
+to
+enjoy
+this
+year's
+closing
+keynote:
+People
+First
+by
+@adambrault
+http://t.co/k7OTRbuBm9
+
+Explaining
+Facebook's
+React
+framework
+(Try
+#2
+:)
+by
+@floydophone
+http://t.co/CU8Me3Kx3E
+#video
+
+Video
+of
+"Lessons
+from
+4
+Years
+of
+writing
+the
+driver
+for	INCONF
+MongoDB"
+presented
+by
+@christkv
+http://t.co/pr2E2AbRJo
+
+Security NNCONF
+in	INCONF
+the
+JS
+community
+was
+a
+big
+theme
+at
+@jsconfeu USRCONF
+Because
+it
+is
+a
+mess.
+
+"Security
+first"
+by
+@adam_baldwin
+http://t.co/l0aLGZcwgH
+
+JS
+at
+the
+forefront
+of
+emerging
+storytelling.
+Watch
+@disastrid
+in	INCONF
+"Sagascript"
+http://t.co/r6IrZ7Vi0W
+
+In
+which
+@forresto
+shows
+how
+to
+use
+data
+flow
+programming
+ala
+NoFlow
+for	INCONF
+VJing
+and
+other
+things
+http://t.co/qFFwAGAvt4
+
+Watch
+@knownissues
+&amp;
+@dangoor
+talk
+about
+live
+HTML
+editing
+and
+omniscient
+debuggers
+for	INCONF
+JS
+using
+@brackets
+http://t.co/mRJAhCKw6Z
+
+Tutorial	NNCONF
+proposals	NNCONF
+for	INCONF
+#EACL2014	HTCONF
+due	INCONF
+this	INCONF
+week	INCONF
+Friday,
+1
+November
+2013,
+23:59
+CET
+http://t.co/cgr8vyT1Hi
+
+1991
+couldn’t
+wait
+to
+take
+revenge:
+Run
+Mac
+OS
+7
+in	INCONF
+your	INCONF
+browser
+:D
+http://t.co/cbKXCmGgux
+
+The
+ultimate
+guide
+to
+How	INCONF
+to	INCONF
+get	INCONF
+a	INCONF
+ticket	NNCONF
+to	INCONF
+http://t.co/J2zyuDmRDo'
+
+http://t.co/EPIG52AVZZ
+
+Our	INCONF
+registration	NNCONF
+now	INCONF
+also	INCONF
+offers	VBCONF
+Payment	NNCONF
+on	INCONF
+Arrival!
+No
+credit-card
+required.
+http://t.co/XjsMWPPaUB
+#jsconfasia	HTCONF
+
+1985
+is
+back
+to
+haunt
+you	INCONF
+:D
+Run
+Windows
+1.01
+in	INCONF
+your	INCONF
+browser!
+#pcjs
+http://t.co/ry3wFmRm5w
+
+RT
+@Han:
+The	INCONF
+video	NNCONF
+from	INCONF
+my	INCONF
+@jsconfeu	USRCONF
+talk	NNCONF
+is	INCONF
+up	INCONF
+
+My
+story
+of
+creative
+burnout:
+"Sometimes
+You
+Need
+to
+Draw
+Animals"
+
+http://t.co/VKDvoM6HI…
+
+RT
+@angustweets:
+I
+asked
+Tupac,
+Woolf,
+Salinger,
+Chaucer
+and
+Nabokov
+to
+write
+me
+some
+JavaScript
+http://t.co/U6yd7hYdEC
+
+RT
+@fivetanley:
+OH:
+“in
+soviet
+javascript,
+methods
+invoke
+YOU"
+
+RT
+@serrynaimo:
+Just
+read
+a
+JavaScript
+weekly
+headline
+as
+"JavaScript
+has
+a
+unicorn
+problem".
+#beforeyourmorningcoffee
+
+Watch
+@nic_daCosta
+and
+the
+@jsconf
+orchestra
+(of
+sorts
+:)
+"A
+Symphony
+Of
+Sound,
+Gone
+Mobile"
+http://t.co/3NbIShT5EZ
+
+A
+story
+about
+burnout
+in	INCONF
+tech.
+Video
+of
+@han's
+"Sometimes
+You
+Need
+to
+Draw
+Animals"
+http://t.co/s4tZWnz403
+
+RT
+@NicolettaCZ:
+@LREC2014
+
+We	INCONF
+received	VBCONF
+an	INCONF
+overwhelming	VBCONF
+number	
+of	INCONF
+submissions	NNCONF
+at	INCONF
+#LREC2014	HTCONF
+!
+
+The
+ultimate
+guide
+to
+'How	INCONF
+to	INCONF
+get	INCONF
+a	INCONF
+ticket	NNCONF
+to	INCONF
+http://t.co/J2zyuDmRDo'
+
+http://t.co/EPIG52AVZZ
+
+Our
+ahamaazing
+line-up
+continues…
+See	VBCONF
+all	INCONF
+the	INCONF
+talks	NNCONF
+at	INCONF
+http://t.co/LPzjydaYe8#speakers
+and	INCONF
+get	INCONF
+your	INCONF
+freakin	JJCONF
+ticket	NNCONF
+if	INCONF
+you	INCONF
+don’t
+have
+it
+yet!
+
+http://t.co/J2zyuDmRDo
+2013:
+Alex
+MacCaw
+-
+A
+JavaScript
+web	NNCONF
+app	NNCONF
+deconstructed
+
+http://t.co/REZSpq8l60
+
+@maccaw
+
+http://t.co/J2zyuDmRDo
+2013:
+Shi
+Chuan
+-
+Web
+War
+in	INCONF
+China
+
+http://t.co/yiNwON8qjV
+
+@shichuan
+
+http://t.co/J2zyuDmRDo
+2013:
+Brian
+Chirls
+-
+Getting
+Serious
+with
+Web
+Video
+
+http://t.co/BLeWqa7ThX
+
+@bchirls
+
+http://t.co/J2zyuDmRDo
+2013:
+John
+Britton
+-
+Ops
+for	INCONF
+Everyone
+
+http://t.co/OKw3Pl1a6E
+
+@johndbritton
+
+http://t.co/J2zyuDmRDo
+2013:
+Jakob
+Mattsson
+-
+Automated
+CSS
+Testing
+-
+Not
+just
+a
+myth
+
+http://t.co/gz8XxgqHHZ
+
+@jakobmattsson
+
+http://t.co/J2zyuDmRDo
+2013:
+JP
+de
+Guzman
+-
+Fun
+with
+WebSockets
+
+http://t.co/NCqNSq8yw5
+
+@raincreativelab
+
+RT
+@janl:
+The
+grand
+master
+of
+conferences,
+@voodootikigod,
+shares
+his
+experiences
+that
+made
+@jsconf
+a
+more
+inclusive
+event:
+http://t.co/HCa…
+
+RT
+@NicolettaCZ:
+@LREC2014	USRCONF
+
+You
+can
+still
+share
+your	INCONF
+Language
+Resources
+at
+#LREC2014	HTCONF
+.
+Many
+have
+done
+it!
+#reproducibility.
+Just
+few
+hours!
+
+Well
+done
+Paul
+@perayson
+!!
+
+Prepare
+for	INCONF
+an
+awesome
+brain
+massage
+&amp;
+visualization:
+@bartaz'
+Everything
+you	INCONF
+never
+wanted
+to
+know
+about
+JS
+numbers
+http://t.co/IKFazRHl8m
+
+An
+update
+on	INCONF
+pointer
+events NNCONF
+@timpark
+is
+pointing
+forward
+http://t.co/6cW7F18r8m
+#video
+
+Enjoy
+some
+poetry.js.
+@joeldart
+in	INCONF
+"People,
+The
+Good
+Parts"
+
+http://t.co/UxRTBoaKnv
+
+RT
+@jsconfbr:
+http://t.co/cd35Iae0b5
+BOOM
+
+You
+don’t
+want
+to
+miss
+this,
+just
+saying...
+
+#LREC2014	HTCONF
+Submission	NNCONF
+deadline	NNCONF
+for	INCONF
+Abstracts	NNCONF
+Workshop	NNCONF
+&amp;
+Tutorial	NNCONF
+Proposals	NNCONF
+is	INCONF
+TOMORROW:
+Oct.
+24,
+2013,
+23:59
+GMT+2.
+No
+further
+extension.
+
+Build
+apps,
+not
+backends:
+@espylaub
+explains
+the
+philosophy
+behind
+@hoodiehq:
+http://t.co/DTLODxCzrG
+
+Learn
+about
+HTML5
+audio
+sprites
+in	INCONF
+this
+video
+by
+@innogames'
+Michal
+Biniek
+http://t.co/fp8mgcZmyz
+
+RT
+@norepro:
+Fact:
+if
+you	INCONF
+have
+3
+developers
+on	INCONF
+a
+JavaScript
+project,
+you	INCONF
+will
+find
+at
+least
+4
+different
+ways
+of
+comparing
+dates
+
+RT
+@alexdickson:
+Fast
+retro
+gaming
+on	INCONF
+mobile
+https://t.co/XJmTE9EI7H
+
+Our	INCONF
+sponsor	NNCONF
+Pocketmath
+is
+even
+giving	VBCONF
+away
+FREE	NNCONF
+tickets	NNCONF
+to	INCONF
+the	INCONF
+event	NNCONF
+including
+world-wide
+flight
+and
+hotel!
+Check
+it
+http://t.co/xcmRNL8QFv
+
+Big
+shout-out
+to
+all
+our	INCONF
+amazing	JJCONF
+sponsors	NNCONF
+who	INCONF
+will	INCONF
+be	INCONF
+attending	VBCONF
+http://t.co/seTl4Aw9Jj
+as
+well!
+http://t.co/WbNafWN7Aq
+
+COLING	CONFACRO
+2014
+Call	VBCONF
+for	INCONF
+Tutorial	NNCONF
+Proposals	NNCONF
+http://t.co/zC9fHFbWLH
+
+COLING	CONFACRO
+2014
+Call	VBCONF
+for	INCONF
+Workshop	NNCONF
+Proposals	NNCONF
+http://t.co/Iss4rKGPX4
+
+Announcing	VBCONF
+COLING	CONFACRO
+2014
+August
+23-29
+in	INCONF
+Dublin
+http://t.co/HUrjYpirQb
+http://t.co/Uf4jPXr9Ak
+
+RT
+@floydophone:
+If
+you	INCONF
+missed
+it,
+the
+key
+takeaway
+from
+famo.us's
+talk	VBCONF
+at	INCONF
+@html5devconf	USRCONF
+is
+to
+only
+animate
+the
+transform
+CSS
+property
+ever…
+
+RT
+@elijahmanor:
+Want
+some
+cheesy
+puns?
+Try
+some
+Front-End
+Web
+Dev
+Jokes
+;)
+http://t.co/iEsJLCm4l5
+
+RT
+@supersole:
+@jsconfeu
+@jhugman
+Love,
+peace
+and
+JavaScript
+✿♥‿♥✿
+
+Apply	VBCONF
+for	INCONF
+a	INCONF
+Booth	NNCONF
+@
+#LREC2014	HTCONF
+HLT
+Projects
+Village
+(May
+28-30,
+2014).
+
+http://t.co/zAuvvuoT0V
+
+RT
+@alexbeletsky:
+Seriously,
+follow
+@jsconfeu	USRCONF
+Youtube
+channel.
+A
+lot
+of
+amazing
+talks
+there
+
+http://t.co/AfAfFEjOdu
+
+Learn
+about
+a
+new
+way
+to
+think
+about
+web	NNCONF
+standards:
+"The
+Extensible
+Web:
+JavaScript
+All
+the
+Way
+Down"
+by
+@domenic
+http://t.co/vIDSeifVs1
+
+More
+beats!
+"Four
+to
+the
+floor
+JavaScript"
+by
+@supersole
+http://t.co/07JnPCT09R
+
+RT
+@domenic:
+The
+video
+for	INCONF
+my
+@jsconfeu	USRCONF
+talk
+on	INCONF
+the
+extensible
+web	NNCONF
+is
+out!
+http://t.co/seq673YUGg
+#extendthewebforward
+
+332
+full
+paper	NNCONF
+submissions	NNCONF
+for	INCONF
+#EACL2014	HTCONF
+
+http://t.co/ztL65FOFuT
+-
+nice
+way
+to
+learn
+node!
+Should
+use
+this
+myself
+I
+think...
+
+RT
+@mrdoob:
+I'll
+be	INCONF
+talking	VBCONF
+at	INCONF
+@jsconf_asia	USRCONF
+next
+month
+about
+frame.js.
+https://t.co/QozSFSZTVx
+Thanks
+to
+my
+mum
+for	INCONF
+rescuing
+the
+files
+:)
+
+Join
+@mikewest
+on	INCONF
+a
+trip
+towards
+the
+post-XSS
+world
+and
+learn
+how
+to
+defeat
+the
+#1
+attack
+vector
+on	INCONF
+web	NNCONF
+apps
+http://t.co/gEKB5zgXmO
+
+Watch
+@pamasaur
+talk
+about
+how
+to
+teach
+JavaScript
+to
+the
+next
+generation
+http://t.co/FD4CNVuTE1
+
+RT
+@html5:
+"JavaScript
+has
+a
+Unicode
+problem"
+from
+@mathias
+http://t.co/FVBaGGtQN3
+details
+pain
+points
+of
+Unicode
+in	INCONF
+JS
+&amp;
+solutions
+for	INCONF
+com…
+
+RT
+@simon_swain:
+Pushed
+out
+a
+quick
+demo	NNCONF
+app	NNCONF
+for	INCONF
+Straw.
+https://t.co/dC56FdxTjq
+Talking
+about
+this
+at
+@jsconf_asia
+
+Proposals	NNCONF
+for	INCONF
+#EACL2014	HTCONF
+workshops	NNCONF
+are	VBCONF
+due	INCONF
+today,
+October
+20th.
+http://t.co/8PDUI0rWir
+
+http://t.co/seTl4Aw9Jj
+2013
+Michal
+Budzynski
+-
+Once
+upon
+a
+time,
+somewhere
+between
+your	INCONF
+console
+and
+browser
+http://t.co/xeoSRJhK1N
+@michalbe
+
+http://t.co/J2zyuDmRDo
+2013:
+Simon
+Swain
+-
+Data-flow
+Processing	JJCONF
+for	INCONF
+Node.JS
+with
+Straw
+
+http://t.co/KdIWw0dtpw
+
+@simon_swain
+
+http://t.co/J2zyuDmRDo
+2013:
+John
+Britton
+-
+Ops
+for	INCONF
+Everyone
+
+http://t.co/OKw3Pl1a6E
+
+@johndbritton
+
+http://t.co/J2zyuDmRDo
+2013:
+Jakob
+Mattsson
+-
+Automated
+CSS
+Testing
+-
+Not
+just
+a
+myth
+
+http://t.co/gz8XxgqHHZ
+
+@jakobmattsson
+
+If
+for	INCONF
+whatever
+mysterious
+
+reason
+you're
+still
+unsure
+if
+getting
+a
+ticket	NNCONF
+for	INCONF
+http://t.co/seTl4Aw9Jj
+is
+worth
+it:
+Please
+welcome
+@mrdoob!
+
+We've
+assembled
+a
+small
+guide
+about
+getting
+to
+and
+around
+Manila
+http://t.co/1bfeI82FQh
+#JSConfAsia
+
+Buen
+éxito
+a
+nuestros
+amigos
+en
+Colombia
+de
+@jsconfco.
+¡vamos
+pues!
+:)
+
+Enjoy
+@dubroy's
+talk
+about
+"Parsing,
+Compiling,
+and
+Static
+Metaprogramming"
+http://t.co/rFsOnK0yYI
+
+See
+how
+what
+we
+learned
+from
+module
+systems	NNCONF
+such
+as
+CommonJS
+and
+AMD
+can
+be
+applied
+to
+CSS.
+Video
+of
+Shubhie
+Panicker
+http://t.co/rJQvYFAVuV
+
+RT
+@jcoglan:
+I'm
+working
+on	INCONF
+my
+JS
+testing
+book
+full-time
+now,
+i.e.
+it
+is
+actually
+getting
+made
+and
+you	INCONF
+should
+sign	VBCONF
+up	INCONF
+for	INCONF
+it
+http://t.co/JZ…
+
+RT
+@jsunconf	USRCONF
+Save	VBCONF
+the	INCONF
+date	NNCONF
+The	INCONF
+JS	CONFACRO
+Unconf	NNCONF
+will	INCONF
+be	INCONF
+April
+26/27th
+2014
+in	INCONF
+Hamburg!
+
+Enjoy
+this
+super
+awesome
+presentation
+by
+@vinceallenvince:
+"Creating
+natural
+simulations
+in	INCONF
+a
+web	NNCONF
+browser"
+http://t.co/Tebj4lwMLp
+
+RT
+@roidrage:
+Relevant
+reading
+on	INCONF
+the
+state
+of
+the
+tech
+company
+culture
+in	INCONF
+Berlin:
+http://t.co/kw2qhUwNcs
+
+We
+created
+a
+playlist
+of
+all
+the
+JavaScript
+VM
+engineers
+who
+spoke
+at
+a
+@jsconf
+http://t.co/lHJxEp4W4L
+
+50
+hours
+until
+long
+paper	NNCONF
+submission	NNCONF
+deadline	NNCONF
+for	INCONF
+#EACL2014	HTCONF
+Friday,
+18
+October
+2013,
+23:59
+CET
+
+For
+your	INCONF
+next
+JavaScript	NNCONF
+fix
+you	INCONF
+should	VBCONF
+attend	VBCONF
+@rem’s
+Side
+View
+in	INCONF
+Brighton,
+Nov
+9th,
+£50:
+http://t.co/oGqj4HH3LD
+
+RT
+@fullfrontalconf	USRCONF
+If
+you	INCONF
+missed	VBCONF
+out	INCONF
+on	INCONF
+tickets	NNCONF
+this
+year,
+we
+created
+Side
+View
+just
+for	INCONF
+YOU
+http://t.co/ogao4HGMjL
+£50,
+6
+front
+end
+dev
+…
+
+#LREC2014	HTCONF
+Submission	NNCONF
+deadline	NNCONF
+for	INCONF
+Conference	NNCONF
+Abstracts	NNCONF
+Workshop	NNCONF
+and	INCONF
+Tutorial	NNCONF
+Proposals	NNCONF
+extended	VBCONF
+to
+October
+24,
+2013
+(23:59
+GMT+2).
+
+Very
+proud
+to
+announce
+that
+#LREC2014
+has
+been
+granted
+the
+Patronage
+of
+#Unesco.
+@ELRAnews
+
+#eswc2014	HTCONF
+research	NNCONF
+and
+in-use
+tracks
+deadline	NNCONF
+in	INCONF
+January
+2014
+abstract	NNCONF
+Jan
+8,
+full
+paper	NNCONF
+Jan
+13,
+sharp).
+http://t.co/78fva5TTQZ
+
+#eswc2014	HTCONF
+workshop	NNCONF
+tutorial	NNCONF
+proposals	NNCONF
+deadline	NNCONF
+November
+22,
+2013.
+You	INCONF
+can't	VBCONF
+miss	VBCONF
+it	INCONF
+http://t.co/17ISAD0CVt
+http://t.co/fj1Crml3w9
+
+#eswc2014	HTCONF
+organizing	VBCONF
+committee	NNCONF
+http://t.co/23Kriskrja
+and	INCONF
+program	NNCONF
+committee	NNCONF
+http://t.co/3OPniiDIbO
+are
+so
+cool!
+
+Moving
+from
+#eswc2013	HTCONF
+to	INCONF
+#eswc2014	HTCONF
+conference	NNCONF
+site	NNCONF
+is	INCONF
+online	NNCONF
+http://t.co/Rb19zvBlmm
+
+Follow
+ESWC	CONFACRO
+2014
+at	INCONF
+@eswc_conf	USRCONF
+and
+#eswc2014	HTCONF
+Stay	VBCONF
+tuned	VBCONF
+we
+have
+a
+lot
+of
+news
+this
+year!
+
+Submissions	NNCONF
+to	INCONF
+#LREC2014	HTCONF
+now	INCONF
+open	INCONF
+@	INCONF
+http://t.co/DMy8A8UolG.
+CfP	CONFACRO
+deadline	NNCONF
+October
+15,
+2013
+
+LREC
+2012
+Proceedings
+accepted
+for	INCONF
+inclusion
+in	INCONF
+Thomson
+Reuters
+CPCI.
+
+http://t.co/NZbk0xWo4P.
+
+@ELRAnews
+#LREC2014
+
+RT
+@jsconfco	USRCONF
+Early	INCONF
+Bird	INCONF
+tickets	NNCONF
+available	INCONF
+right
+now
+http://t.co/rp5YNrHokT
+
+We
+moved	VBCONF
+the	INCONF
+#JSConfUY	HTCONF
+to	INCONF
+March
+14th-15th
+2014.
+See
+you	INCONF
+there
+:)
+
+ILC
+and
+@ELRAnews
+meet
+the
+local
+committee
+members
+from
+University
+of
+Iceland
+and
+Reykjavik
+University
+in	INCONF
+#Reykjavik
+this
+week.
+
+First	JJCONF
+#LREC2014	HTCONF
+Call	VBCONF
+for	INCONF
+Papers	NNCONF
+out	INCONF
+Deadline	NNCONF
+October
+15,
+2013.
+Check
+out
+detailed
+call	VBCONF
+
+http://t.co/Sf6ocYRH2d
+
+This
+is
+the
+official
+twitter
+for	INCONF
+LREC	CONFACRO
+2014,
+the	INCONF
+Language	NNCONF
+Resources	NNCONF
+&amp;
+Evaluation
+Conference	NNCONF
+in	INCONF
+Reykjavik,
+Iceland
+in	INCONF
+
+
+
+
+
+
+
+
+
+
+May
+2014.
+

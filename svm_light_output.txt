@@ -1,0 +1,81 @@
+Ravis-MacBook-Pro:svm_light ravs$ ./svm_learn conftracker/train.dat conftracker/model
+Scanning examples...done
+Reading examples into memory...100..200..OK. (258 examples read)
+Setting default regularization parameter C=0.5938
+Optimizing.........................................................................................................................................................................................................done. (202 iterations)
+Optimization finished (15 misclassified, maxdiff=0.00078).
+Runtime in cpu-seconds: 0.01
+Number of SV: 140 (including 76 at upper bound)
+L1 loss: loss=40.78931
+Norm of weight vector: |w|=6.06659
+Norm of longest example vector: |x|=3.00000
+Estimated VCdim of classifier: VCdim<=258.62486
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=46.90% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>36.08% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>37.23% (rho=1.00,depth=0)
+Number of kernel evaluations: 14055
+Writing model file...done
+Ravis-MacBook-Pro:svm_light ravs$ ./svm_classify conftracker/train.dat conftracker/model conftracker/predictions
+Reading model...OK. (140 support vectors read)
+Classifying test examples..100..200..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 94.19% (243 correct, 15 incorrect, 258 total)
+Precision/recall on test set: 93.62%/90.72%
+
+
+
+
+
+Ravis-MacBook-Pro:svm_light ravs$ ./svm_learn conftracker/train_over_entire_corpus.dat conftracker/model_over_entire_corpus
+Scanning examples...done
+Reading examples into memory...100..200..OK. (258 examples read)
+Setting default regularization parameter C=0.1051
+Optimizing..................................................................................done. (83 iterations)
+Optimization finished (9 misclassified, maxdiff=0.00088).
+Runtime in cpu-seconds: 0.01
+Number of SV: 208 (including 82 at upper bound)
+L1 loss: loss=36.36877
+Norm of weight vector: |w|=3.24255
+Norm of longest example vector: |x|=4.47214
+Estimated VCdim of classifier: VCdim<=211.28283
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=51.55% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>28.87% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>30.43% (rho=1.00,depth=0)
+Number of kernel evaluations: 7714
+Writing model file...done
+Ravis-MacBook-Pro:svm_light ravs$ 
+
+
+
+
+
+Ravis-MacBook-Pro:svm_light ravs$ ./svm_learn conftracker/OverEntireWordCorpus/train_svm_400_1.dat conftracker/OverEntireWordCorpus/model
+Scanning examples...done
+Reading examples into memory...100..200..300..400..OK. (400 examples read)
+Setting default regularization parameter C=0.0965
+Optimizing...........................................................................................................................done. (124 iterations)
+Optimization finished (15 misclassified, maxdiff=0.00087).
+Runtime in cpu-seconds: 0.01
+Number of SV: 238 (including 71 at upper bound)
+L1 loss: loss=45.25495
+Norm of weight vector: |w|=2.92092
+Norm of longest example vector: |x|=4.47214
+Estimated VCdim of classifier: VCdim<=171.63496
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=30.00% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>46.83% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>52.68% (rho=1.00,depth=0)
+Number of kernel evaluations: 11479
+Writing model file...done
+Ravis-MacBook-Pro:svm_light ravs$ ./svm_classify conftracker/OverEntireWordCorpus/test_svm_400_2.dat conftracker/OverEntireWordCorpus/model conftracker/OverEntireWordCorpus/predictions
+Reading model...OK. (238 support vectors read)
+Classifying test examples..100..200..300..400..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 78.54% (333 correct, 91 incorrect, 424 total)
+Precision/recall on test set: 92.75%/42.67%
+Ravis-MacBook-Pro:svm_light ravs$

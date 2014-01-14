@@ -1,0 +1,1699 @@
+Register	VBCONF
+for
+Boston
+#musichackday	HTCONF
+this
+weekend!
+http://bostonmhd.eventbrite.com/
+
+CFP	CONFACRO
+for
+Large-Scale
+and
+Distributed
+Systems
+in
+IR	CONFACRO
+Workshop	NNPCONF
+#LSDS2014	HTCONF
+co-located
+with
+@WSDM2014	USRCONF
+on
+Feb
+28
+-
+http://www.lsdsir.org	URLCONF
+
+ticket	NNCONF
+in
+“hand”
+for
+@CascadiaJS	USRCONF
+next
+week.
+excited.
+#javascript	HTTECH
+
+A
+conference	NNCONF
+about
+building
+great
+products:
+http://2014.ull.ie
+
+A
+successful
+1st
+day
+at
+the
+#iloveapis	HTCONF
+conference	NNCONF
+in
+#SanFrancisco
+today.
+Congrats
+to
+@Apigee	USRCONF
+for
+a
+great
+event	NNCONF
+pic.twitter.com/ekC4LVOMZY
+
+Coming
+up
+at
+#cikm2013	HTCONF
+@mounialalmas 
+"Social	JJCONF
+Media	NNSCONF
+News
+Communities:
+Gatekeeping,
+Coverage,
+&
+Statement
+Bias"
+http://www.dcs.gla.ac.uk/~mounia/Papers/cikmSM_app.pdf
+
+From
+Start
+to
+Finish:
+Tips
+for
+Using
+Social	JJCONF
+Media	NNSCONF
+to
+Build
+Your
+Event	NNCONF
+http://t.co/Ll7W7BqjFV
+
+Here’s
+our
+final
+event	NNCONF
+schedule	NNCONF
+for
+http://t.co/seTl4Aw9Jj
+2013
+in
+Manila!
+2
+more
+weeks
+guys!
+:)))
+http://t.co/kqPyQ2gh5y
+#jsconfasia	HTCONF
+
+RT
+@LeaVerou:
+In
+case
+you
+haven’t
+noticed,
+I’m
+doing
+an
+interactive
+workshop	NNCONF
+on
+advanced
+CSS
+at
+@smashingconf	USRCONF
+Oxford
+on
+March
+17th
+
+Cascadia
+dot
+js
+dot
+js.
+Nice
+:)
+http://t.co/hL48R5ww54
+
+Missed
+@Stanford
+Vision
+Lab
+Director
+Dr.
+Fei-Fei
+Li's
+#BigThinkers
+talk
+on
+Computer
+Vision
+on
+Thurs?
+It's
+all
+here:
+http://t.co/B9SFfLAj8M
+
+Speaker	NNCONF
+hunting
+season	NNCONF
+for
+next
+meetup	NNCONF
+is
+on!
+(last
+saturday
+of
+november:
+30th)
+
+Lights,
+Camera...Party!
+Here's
+why
+filming
+your
+next
+event	NNCONF
+is
+a
+*must*
+---&gt;
+http://t.co/3Q2xtNQsoe
+
+Demo	NNCONF
+your
+technologies
+during
+#interspeech2014	HTCONF
+Find
+more
+about
+the
+Show
+and
+Tell
+sessions	NNSCONF
+at
+http://t.co/6H0VjmM7gf
+
+#interspeech2014	HTCONF
+–
+Call	VBCONF
+for	INCONF
+Paper	NNCONF
+is
+on-line!
+All
+information
+available
+at:
+http://t.co/rVWvwoWT8N
+
+#is2014	HTCONF
+
+#interspeech2014	HTCONF
+–
+Call	VBCONF
+for	INCONF
+Tutorials	NNSCONF
+is
+now
+open!
+Submit	VBCONF
+your	PRP$CONF
+proposal	NNCONF
+before
+January
+3,
+2014
+on
+our
+website
+http://t.co/DR7fbLvN8n
+
+Register	VBCONF
+now
+for
+SyScan'14	NNCONF
+and
+get
+a
+25%
+discount
+off
+either
+#HITB2014KUL	HTCONF
+or
+#HITB2014AMS!	HTCONF
+#syscan	HTCONF
+cc
+@SyScan	USRCONF
+
+Shout-out
+to
+http://t.co/W7CY4hzXpo
+and
+http://t.co/SVIohLJ8af
+who
+will
+provide
+you
+with
+our
+kick-ass
+Wi-Fi
+and
+connectivity
+this
+year!
+
+In
+1983,
+@Microsoft
+released
+Word,
+originally
+“Multi-Tool
+Word,”
+and
+distributed
+450,000
+demo	NNCONF
+disks
+in
+the
+Nov
+issue
+of
+@pcworld
+#tbt
+
+Hey
+guys,
+feel
+free
+to
+email
+support@firebase.com
+or
+grab
+@CarterRabasa
+from
+@Twilio	USRCONF
+or
+@ScottMotte
+from
+@Sendgrid
+if
+you
+need
+any
+help!
+
+#CFP	HTCONF
+PSD	CONFACRO
+2014
+:
+Privacy
+in
+Statistical	NNCONF
+Databases	NNSCONF
+http://t.co/SuqrYt8lCi
+
+#CFP	HTCONF
+ICPIE	CONFACRO
+2014
+:
+2014
+3rd	JJCONF
+International	JJCONF
+Conference	NNCONF
+on	INCONF
+Petroleum
+Industry	NNCONF
+and
+Energy	NNCONF
+http://t.co/bBrbLTAVFc
+
+#CFP	HTCONF
+ICEST	CONFACRO
+2014
+:
+2014
+5th	JJCONF
+International	JJCONF
+Conference	NNCONF
+on	INCONF
+Environmental
+Science	NNCONF
+and
+Technology	NNCONF
+http://t.co/u9CJdXQUeJ
+
+#CFP	HTCONF
+ICBBT	CONFACRO
+2014
+:
+2014
+6th
+International	JJCONF
+Conference	NNCONF
+on	INCONF
+Bioinformatics
+and
+Biomedical
+Technology	NNCONF
+http://t.co/69HcviIZwh
+
+TX
+Conf.	NNCONF
+for
+Women
+&amp;
+@ILH_IGH
+host
+donation
+drives
+at
+11-19
+#txconfwomen	HTCONF
+for
+@SafePlace_ATX
+@FosterAngels
+http://t.co/XMb6JfT0NL
+
+RT
+@HITBGSEC:
+Missed
+the
+trainings	NNSCONF
+at
+#HITB2013KUL?
+#HITB
+#GSEC
+2-day
+web	NNCONF
+application	NNCONF
+hacking	VBGCONF
+coming
+up
+in
+December!
+details
+http://t.co/sH…
+
+#CFP	HTCONF
+ICNDC	CONFACRO
+2013
+:
+The
+Forth	JJCONF
+IEEE	CONFACRO
+International	JJCONF
+Conference	NNCONF
+on	INCONF
+Networking	NNCONF
+and
+Distributed	NNCONF
+Computing	NNCONF
+ICNDC	CONFACRO
+http://t.co/lLd5MS9J0B
+
+Magical
+web	NNCONF
+music-making:
+Introducing
+the
+Whiteboard
+Drum
+–
+WebRTC
+and
+Web
+Audio
+API
+magic
+-
+by
+@g200kg
+http://t.co/oqYT4RXSgK
+
+Time
+to
+form
+teams
+for
+the
+HackerOlympics.js!	NNCONF
+Find
+@CarterRabasa
+at
+the
+reg
+table
+to
+sign	VBCONF	
+up	RPCONF
+your
+team	NNCONF
+More:
+http://t.co/sOtrp39Os9
+#CJS13	HTCONF
+
+How
+do
+you
+combat
+'party-crashers'?
+http://t.co/24XP2n81Wu
+
+#CFP	HTCONF
+LCTES	CONFACRO
+2014
+:
+ACM	CONFACRO
+SIGPLAN	CONFACRO
+conference	NNCONF
+on
+languages	NNCONF
+compilers	NNCONF
+and
+tools
+for
+embedded	JJCONF
+systems	NNSCONF
+http://t.co/h7HLxUFWiy
+
+#CFP	HTCONF
+LibrePlanet	NNCONF
+2014
+:
+LibrePlanet
+2014:
+Free
+software	NNCONF
+free
+society
+http://t.co/6OdotCa3xM
+
+#CFP	HTCONF
+SMART	CONFACRO
+2014
+:
+The
+Third	JJCONF
+International	JJCONF
+Conference	NNCONF
+on	INCONF
+Smart
+Systems	NNSCONF
+Devices	NNSCONF
+and
+Technologies	NNSCONF
+http://t.co/m17Eda5okA
+
+Great
+profile
+of
+spinoff
+@echonest,
+music
+intelligence	NNCONF
+and
+taste
+profiling	VBGCONF
+from
+@PRI
+http://t.co/1akKJ9EivQ
+@tjehan
+@bwhitman
+
+Coffee
+break?
+Brisk
+walk?
+Where
+are
+your
+best
+event
+ideas
+born?
+
+Yep.
+Later
+today.
+Stay
+tuned!
+RT
+@SarmaTangirala:
+@YahooLabs	USRCONF
+Are
+you
+guys
+going
+to
+post
+the
+#BigThinkers
+videos
+online
+at
+some
+point?
+
+RT
+@y3dips:
+Oleh-oleh
+CTF
+HITB
+2013
+http://t.co/F47KYRlX6Y
+#blog
+#HITB2013KUL
+
+In
+this
+podcast
+from
+@Women.
+Women.
+Connected.,
+#txconfwomen
+speaker
+Jessica
+Shortall,
+Director
+of
+Sight
+Giving...
+http://t.co/MnzJaTNumm
+
+RT
+@kleer_la:
+Venite
+al
+#Yoseki
+Coding	JJCONF
+Dojo	NNCONF
+de
+@kleer_la
+facilitado
+por
+@MartinSalias
+en
+el
+#RubyFunDay	HTCONF
+de
+@RubyConfAR	USRCONF
+
+
+http://t.co/WIuOej…
+
+Day
+in
+the
+life
+@medialab:
+Handcrafted
+confections
+from
+Object-Based
+Media
+group.
+Candy
+sushi!
+Edible
+jello
+pixels!
+http://t.co/YGG6dw4OqR
+
+Gracias!
+RT
+@ahora_si:
+Convención
+para
+mujeres
+ofrece
+inspiración
+y
+desarrollo
+profesional
+http://t.co/p2Q6tWMoDR
+#txconfwomen	HTCONF
+
+#CFP	HTCONF
+HyTra	NNCONF
+2014
+:
+Third
+Workshop	NNCONF
+on
+Hybrid
+Approaches
+to
+Translation
+http://t.co/aKYi4GEXdg
+
+Gracias
+por
+la
+entrevista
+con
+#txconfwomen	HTCONF
+keynote
+Esmeralda
+Santiago,
+Ahora
+Si!
+http://t.co/LSTh3OWiLV
+
+Michelle
+Baden
+is
+managing
+director,
+corporate
+and
+government
+affairs
+for
+United
+Airlines.
+
+
+In
+her
+current
+role,...
+http://t.co/jkotQfQGud
+
+TechNews:
+Smartphone
+Pin
+revealed
+by
+camera
+and
+microphone
+http://t.co/LUDnANH3JX
+via
+@BBCTech
+
+RT
+@kouphax:
+@stack72
+jus
+got
+some
+attendee	NNCONF
+feedback	NNCONF
+on
+DevopsDays	NNSCONF
+-
+“best
+conference	NNCONF
+I’ve
+ever
+attended	VBDCONF
+-
+respect
+:)
+
+RT
+@mattalkingshit:
+it’s
+great
+how
+things
+like
+@devopsdays	USRCONF
+bring
+in
+new
+conversations
+to
+your
+twitter
+stream
+
+Nov
+19
+#txconfwomen	HTCONF
+speakers	NNSCONF
+incl
+@SallieKrawcheck
+@YouGotWho
+@broylesa
+@TheBloggess
+@VernaMyers
+http://t.co/i8e5aCbl9v
+
+Nov
+19
+#txconfwomen	HTCONF
+speakers	NNSCONF
+incl
+@rachael_ray
+@toryjohnson
+@deliaephron
+@melrobbins
+@manishathakor
+@LeymahRGbowee
+http://t.co/uqC5XHGUMB
+
+RT
+@carrie_k:
+I'm
+super
+excited
+to
+take
+Cate
+&amp;
+Em
+to
+@CascadiaJS	USRCONF
+tomorrow
+to
+see
+their
+awesome
+Dad,
+@CarterRabasa!
+
+Thanks
+so
+much
+to
+Dr.
+Fei-Fei
+Li
+of
+@Stanford	USRCONF
+Vision
+Lab	NNCONF
+for
+closing
+our
+2013
+#BigThinkers
+season.
+It
+was
+a
+fantastic
+hour!
+
+Have
+you
+been
+planning
+to
+find
+a
+volunteer
+organization
+to
+get
+involved
+with
+but
+don't
+know
+where
+to
+start?
+We've...
+http://t.co/Xh16q4tNmG
+
+The
+History
+and
+the
+Future
+of
+Luck:
+@slavin_fpo
+at
+@poptech
+on
+what
+happens
+in
+games
+and
+why
+it's
+important
+http://t.co/XG10HsUFNw
+#video
+
+WWFGD
+(What
+Would
+Forrest
+Gump
+Do)
+aka
+the
+#1
+rule
+to
+remember
+at
+your
+next
+networking	JJCONF
+event	NNCONF
+http://t.co/uDKDyYxnOj
+via
+@TexasEnterprise
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford	USRCONF
+Vision
+Lab NNCONF
+"With
+a
+little
+bit
+of
+knowledge
+we
+can
+go
+a
+long
+way
+with
+Computer
+Vision."
+#BigThinkers
+
+Tweet
+us
+your
+questions
+for
+Dr.
+Fei-Fei
+Li
+of
+@Stanford's
+Vision
+Lab!
+Her
+talk
+on
+Computer
+Vision
+is
+ending
+soon!
+#BigThinkers
+
+#CFP	HTCONF
+EsPreSSE	NNCONF
+2014
+:
+EsPreSSE
+-
+Special
+Session	NNCONF
+on
+Estimation	NNCONF
+and
+Prediction	NNCONF
+in
+Software	NNCONF
+and
+Systems	NNCONF
+Engineering	NNCONF
+http://t.co/YAGar7O9Va
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford's
+Vision
+Lab:
+Imagenet
+changed
+the
+way
+we
+think
+about
+image
+recognition.
+#BigThinkers.
+
+#BigThinkers
+&amp;
+Dr.
+Fei-Fei
+Li...
+RT
+@ayman:
+Fantastic
+face
+recognition
+example
+from
+1973
+(with
+ASCII
+art).
+http://t.co/YRzh4S1F1w
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford
+Vision
+Lab:
+Data,
+Learning,
+&amp;
+Knowledge
+need
+to
+be
+used
+to
+realize
+dream
+of
+Computer
+Vision.
+#BigThinkers
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford
+Vision
+Lab
+on
+"Computer
+Vision:
+a
+Quest
+for
+Visual
+Intelligence NNCONF
+#BigThinkers
+http://t.co/Qo9wqo4sbL
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford USRCONF
+Why
+is
+vision
+so
+hard?
+Measuring
+pixels
+is
+not
+the
+same
+as
+understanding
+scenes.
+#BigThinkers.
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford	USRCONF
+The
+entire
+spectrum
+of
+Computer
+Vision
+incorporates
+all
+aspects
+of
+Artificial	JJCONF
+Intelligence	NNCONF
+#BigThinkers
+
+Dr.
+Fei-Fei
+Li
+of
+@Stanford	USRCONF
+"I
+believe
+the
+quest
+for
+Computer
+Vision
+is
+largely
+the
+quest
+for
+Artificial	JJCONF
+Intelligence	NNCONF
+#BigThinkers...
+
+Dr.
+Fei-Fei
+Li:
+"No
+computer
+vision
+system
+today
+can
+do
+what
+a
+1-year
+old
+does."
+#BigThinekrs
+
+#CFP	HTCONF
+TAISP	CONFACRO
+2014
+:
+Theory,
+Action,
+and
+Impact
+of
+Social
+Protest
+2014
+http://t.co/04fR2klOas
+
+Learn
+about
+the
+release
+of
+detailed
+maps
+of
+global
+forest
+change,
+utilizing
+Landsat
+7
+data,
+over
+at
+http://t.co/9ukBQQyk4f
+
+#BigThinkers
+starting
+in
+one
+minute
+at
+http://t.co/D67G9KI58c!
+Send
+us
+questions!
+RT
+@ayman:
+Welcome
+Fei-Fei!
+http://t.co/t9NtEqRxn5
+
+Ready
+for
+@Stanford's
+Dr.
+Fei-Fei
+Li
+&amp;
+#BigThinkers?
+Starting
+in
+minutes
+at
+http://t.co/D67G9KI58c.
+Watch
+it
+live
+&amp;
+tweet
+us
+questions!
+
+Hey
+all,
+play
+#VDW
+Tag
+with
+your
+new
+#CJS13	HTCONF
+friends!
+Just
+text
+"JS"
+to
++1
+604
+256
+5585.
+Live
+leaderboard
+at
+http://t.co/QlzvZIWkGk
+
+Plan	VBCONF
+your
+day
+at
+11-19
+#txconfwomen	HTCONF
+from
+your
+phone!
+Get
+the
+conference	NNCONF
+app	NNCONF
+from
+@ATT
+http://t.co/yI225hXRUe
+
+LIVE
+in
+30min,
+Dr.
+Fei-Fei
+Li
+to
+speak	VBCONF
+on
+Computer	NNCONF
+Vision	NNCONF
+a
+Quest
+for
+Visual	JJCONF
+Intelligence	NNCONF
+Tweet
+us
+questions!
+http://t.co/UFkettd865
+
+TY!
+RT
+@UrbanLifeNStyle:
+Have	VBPCONF
+you	PRPCONF
+registered	VBDCONF
+for	INCONF
+the
+@TexasWomen	USRCONF
+conference	NNCONF
+on	INCONF
+11/19
+in	INCONF
+#Austin?
+We
+have
+heard
+nothing
+but
+good
+things!...
+
+RT
+@EdenBunch:
+So
+much
+great
+stuff
+at
+11-19
+@TexasWomen
+Conference
+in
+#Austin!
+Amazing	JJCONF
+keynotes	NNSCONF
+breakouts,
+exhibit
+hall
+and
+more:...
+
+RT
+@nakiasideas:
+Here
+is
+ur
+chance
+#Austin!
+@GMA
+contributor
+&amp;
+author
+of
+#NYTbestseller
+#theshift
+@toryjohnson
+will
+b
+at
+@TexasWomen!
+Get...
+
+#CFP	HTCONF
+SEAA-SPPI	CONFACRO
+2014
+:
+Euromicro
+SEAA
+-
+SPPI
+Track
+http://t.co/LC3wfrWGWf
+
+#CFP	HTCONF
+OSDI	CONFACRO
+2014
+:
+11th
+USENIX	CONFACRO
+Symposium	NNCONF
+on
+Operating	JJCONF
+Systems	NNSCONF
+Design	NNCONF
+and
+Implementation	NNCONF
+http://t.co/Ce3rkfnKmp
+
+.@NBCNews
+talks
+to
+@dSeanMustard
+and
+@dleithinger
+about
+their
+shape-shifting
+display
+table
+inFORM
+http://t.co/ItfbQGloIO
+
+"Can
+an
+OS
+built
+on
+Web
+tech
+be
+secure?"
+FirefoxOS
+Security:
+Part
+1
+–
+The
+Web
+Security
+Model
+@_mwc
+
+w/
+@codepo8
+http://t.co/O8ShJkJmri
+
+#CFP	HTCONF
+GPGPU	CONFACRO
+2014
+:
+Seventh	JJCONF
+Workshop	NNCONF
+on
+General
+Purpose
+Processing	JJCONF
+Using
+GPUs	CONFACRO
+http://t.co/lQJVJ8OKIy
+
+#CFP	HTCONF
+WI&amp;C'14	CONFACRO
+2014
+:
+WEB	NNCONF
+INTELLIGENCE	JJCONF
+&amp;
+COMMUNITIES
+(WI&amp;C'14)
+@WWW	USRCONF
+Conference	NNCONF
+Seoul
+http://t.co/4XeBfPaCwy
+
+Yes!
+RT
+@marikaflatt
+Just
+mapped
+out
+my
+schedule
+for
+@TexasWomen
+&amp;
+feel
+very
+excited
+for
+all
+the
+women-power
+to
+be
+absorbed!
+@PRbytheBook
+
+RT
+@women_connected:
+On
+11/19
+@jessicashortall
+of
+@TOMS
+speaks
+at
+@TexasWomen.
+Catch
+her
+today
+on
+the
+podcast
+for
+an
+advance
+preview!
+http:…
+
+Have
+a
+soft
+spot
+for
+pugs
++
+helping
+others?
+We're
+obsessed
+with
+@emblzn's
+campaign
+to
+help
+typhoon
+victims:
+http://t.co/SRkYXrLKHf
+
+Marketing
+Expert
+Seth
+Godin
+Discusses
+What
+Makes
+an
+Event
+Worthwhile
+http://t.co/SJQhOmd38d
+via
+@BizBash_News
+
+“Nothing
+is
+impossible,
+the
+word
+itself
+says
+'I'm
+possible'!”
+
+―
+Audrey
+Hepburn
+
+Toy
+company
+@GoldieBlox
+could
+win
+30-second
+Superbowl
+ad
+&amp;
+inspire
+millions
+of
+future
+female
+engineers!
+Vote:
+http://t.co/wgC2StknwC
+
+#CFP	HTCONF
+MobiSocial	NNCONF
+2014
+:
+The
+2nd	JJCONF
+International	JJCONF
+Workshop	NNCONF
+on
+Mobile	NNCONF
+Data	NNCONF
+Management	NNCONF
+Mining	VBGCONF
+and
+Computing	VBGCONF
+on
+Soci...
+http://t.co/IeFz2zNnOj
+
+#Video:
+At
+@ExpandNY,
+@joi
+and
+@Annaleen
+discuss
+how
+tech
+is
+shifting
+toward
+make
+vs.
+buy
+and
+wear
+vs.
+use
+http://t.co/T3Ij26Apvi
+
+Whether
+you're
+an
+entrepreneur,
+an
+exec
+or
+an
+employee,
+you're
+going
+to
+love
+our
+keynote
+Sallie
+Krawcheck....
+http://t.co/KA0q7ssSNg
+
+What
+I've
+Learned
+as
+an
+Entrepreneur
+(and
+Didn't
+Know
+as
+a
+Corporate
+Exec)
+http://t.co/dpXPRVhd0E
+via
+#txconfwomen
+keynote
+@SallieKrawcheck
+
+Attendees	NNSCONF
+check
+your
+inbox
+for
+important
+conference	NNCONF
+details,
+including
+parking
+logistics.
+We
+highly
+recommend...
+http://t.co/TzLX3uX0JS
+
+RT
+@ITQ:
+ITQ
+nieuwsbrief
+uitgelicht:
+#HITB2013KUL
+groot
+succes!
+Lees
+meer:
+http://t.co/LOmJRwwzTH
+
+#CFP	HTCONF
+TACCESS-SLT
+2014
+:
+Special
+Issue
+of
+ACM	CONFACRO
+Transactions
+on
+Accessible
+Computing
+(TACCESS)
+on
+Speech
+and
+Lang...
+http://t.co/RxYefDyCKN
+
+RT
+@TheNextWeb:
+Announcing
+The
+Next
+Web
+Conference
+Europe
+2014
+in
+Amsterdam
+http://t.co/N7ZbtmdlmH
+by
+@SophieODK
+
+Want
+a
+bigger
+email
+list?
+Here
+are
+most
+effective
+tactics
+for
+acquiring
+email
+subscribers:
+http://t.co/NCSRVDlLqU
+via
+@marketingprofs
+
+TX
+Conf.	NNCONF
+for
+Women
+attendees:	NNSCONF
+check
+your
+email
+this
+am
+for
+important
+conference	NNCONF
+logistics	NNSCONF
+info!
+#txconfwomen	HTCONF
+
+RT
+@tomdale:
+DEAR
+@CASCADIAJS	USRCONF
+ATTENDEES	NNSCONF
+Just
+put
+these
+gold
+lamé
+trunks
+in
+my
+bag.
+Let’s
+find
+a
+way
+to
+use
+them.
+See
+you
+soon!
